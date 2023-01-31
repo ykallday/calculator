@@ -1,6 +1,4 @@
-# calculator
-calculator
-User Stories
+# User Stories
 User stories are a great way to break down what the different features of the website are, and how to structure it. They are generally written out in this form "A user should be able to...". Here are the user stories for our lab:
 
         A user should be able to select numbers so that they can do things with them.
@@ -14,4 +12,4 @@ User stories are a great way to break down what the different features of the we
         
         
         
-        ![Screen Shot 2023-01-31 at 6 56 29 AM](https://user-images.githubusercontent.com/111005458/215795314-62b3b272-a5f2-42fa-9e22-35794a1a1ec3.png)
+![Screen Shot 2023-01-31 at 6 56 29 AM](https://user-images.githubusercontent.com/111005458/215795636-23e47268-5fe1-489c-82f6-d3fe22da78a5.png)
